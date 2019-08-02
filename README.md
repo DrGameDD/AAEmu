@@ -6,6 +6,8 @@ __Open source server software for ArcheAge written in .Net Core__
 Head over to the [wiki](https://github.com/atel0/AAEmu/wiki).
 If you don't find what you're looking for there, [talk to a human](#discussion). Please do not use our issue tracker for support requests.
 
+Be sure to run DBUpdates against your sqlite DB AAEmu.Game/Data/DBUpdates
+
 ### Discussion
 - [Site](https://aaemu.info/)
 - [Forums](https://boards.aaemu.pw/)
@@ -31,3 +33,5 @@ Yes you can! Contributions are welcomed provided that they comply with our [Cont
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 atel0/AAEmu are not affiliated with XLGames. All brands and trademarks belong to their respective owners. AAEmu is not a XLGames-approved software, nor is it associated with XLGames.
+
+DrGameDD/AAEmu are not affiliated with XLGames. All brands and trademarks belong to their respective owners. AAEmu is not a XLGames-approved software, nor is it associated with XLGames.
